@@ -1,9 +1,3 @@
-# url = "https://api.cryptocloud.plus/v2/invoice/create"
-# headers = {
-#     "Authorization": f"Token {CRYPTO_API}",
-#     "Content-Type": "application/json"
-# }
-
 import aiohttp
 
 class CryptoCloudAPI:
